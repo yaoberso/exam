@@ -58,7 +58,7 @@ static node	*parse_term(char **s);
 static node	*parse_factor(char **s);
 
 
-node	*parse_expr(char *s)
+node	*parse_expr(char *
 {
 	// ...
     char *p = s;
